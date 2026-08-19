@@ -1,16 +1,18 @@
-## Hi there 👋
+## Name
 
-<!--
-**hughO1020/hughO1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hugh Plymale, I am a student of Mr. Norris currently in C++ Programming.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not in this class I am:
+- With my girlfriend
+- Working
+- Spending time with family
+- Thinking about my future
+- Piddling in the yard
+
+## Classes I'm taking
+- ENG 112
+- Ethics
+- Math 172
+- C++ Programming
